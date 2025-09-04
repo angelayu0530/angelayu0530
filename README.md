@@ -1,1 +1,1 @@
-## Hi, My Name is Angela Yu. I am currently a Junior at Hunter College
+## Hi, My Name is Angela Yu. I am currently a Junior at Hunter College. I am currently working on a project called CodeBloom that has collaberations with multiple clubs to encourage students to interview prep.
