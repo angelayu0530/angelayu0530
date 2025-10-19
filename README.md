@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Angela Yu</h1>
+<h1 align="center">Hi,I'm Angela Yu</h1>
 <h3 align="center">A Junior at Hunter College</h3>
 
 - 🔭 I’m currently working on **Codebloom**
