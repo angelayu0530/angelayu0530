@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Angela Yu</h2>
+<h2 align="center">Angela Yu</h2>
 <h4 align="center">Junior at Hunter College</h4>
 
 <ul>
