@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7956FF&width=435&lines=Angela+Yu+;Incoming+SWE+Intern+at+JPMC;Contact+me+%40+angelayu0530%40gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7956FF&center=true&width=435&lines=Angela+Yu+;Incoming+SWE+Intern+at+JPMC;Contact+me+%40+angelayu0530%40gmail.com)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
