@@ -1,12 +1,4 @@
-<h2 align="center">Angela Yu</h2>
-<h4 align="center">Junior at Hunter College</h4>
-
-<ul>
-  <li>🔭 Currently working on <b>Codebloom</b></li>
-  <li>📫 How to reach me: <b>angelayu0530@gmail.com</b></li>
-</ul>
-
-<h4 align="left">Languages and Tools:</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7956FF&width=435&lines=Angela+Yu+;Incoming+SWE+Intern+at+JPMC;Contact+me+%40+angelayu0530%40gmail.com)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
