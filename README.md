@@ -1,3 +1,4 @@
-- angela yu
-- cs @ hunter college
-- currently working on something new for patina network
+angela yu<br>
+cs @ hunter college<br>
+currently working on something new for patina 
+
