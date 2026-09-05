@@ -1,4 +1,5 @@
 angela yu<br>
 cs @ hunter college<br>
-currently working on something new for patina 
+swe intern @ jpmc <br>
+coding for patina network too :D
 
